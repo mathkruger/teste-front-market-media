@@ -1,0 +1,59 @@
+.col-12 {
+    width: 100%;
+    padding: 0 1rem;
+}
+
+.col-11 {
+    width: 91.6666%;
+}
+
+.col-10 {
+    width: 83.3333%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-8 {
+    width: 66.6666%;
+}
+
+.col-7 {
+    width: 58.3333%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-5 {
+    width: 41.6666%;
+}
+
+.col-4 {
+    width: 33.3333%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-2 {
+    width: 16.6666%;
+}
+
+.col-1 {
+    width: 8.3333%;
+}
+
+.col-12, .col-11, .col-10, .col-9, .col-8, .col-7, .col-6, .col-5, .col-4, .col-3, .col-2, .col-1 {
+    display: inline-block;
+    padding-left: 1rem;
+    vertical-align: middle;
+}
+
+.row {
+    margin-left: -1rem;
+    margin-right: 0;
+}
